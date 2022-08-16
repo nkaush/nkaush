@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Neil Kaushikkar
 
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://docs.google.com/document/d/1Ai17dfymK7mOlw6jWioQ43wk-v3wfcZec1jJXWlBwbQ/edit?usp=sharing)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-kaushikkar/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neil.kaushikkar@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:neilk3@illinois.edu)
