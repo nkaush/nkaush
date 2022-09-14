@@ -9,12 +9,10 @@
 - 😄 Pronouns: he/him
 - 🍫 Fun Fact: I can never eat enough chocolate
 - ⚽️ I love playing and watching soccer
-- 🏋🏽‍♂️ I am currently learning to powerlift
 
 ### What I'm Working On 🏢
 - 👨‍🎓 I'm pursuing a Bachelor's degree in Computer Science at the University of Illinois at Urbana-Champaign
 - 🍎 I'm currently teaching [@CS128-Honors-Illinois](https://github.com/CS128-Honors-Illinois)
-- 🚀 I'm also teaching the CS Track at the Gies Disruption Lab Incubator
 
 ### Technologies 👨‍💻
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
