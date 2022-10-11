@@ -35,5 +35,5 @@
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ### GitHub Tropies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=nkaush&theme=monokai&column=8&no-bg=true)](https://github.com/nkaush/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkaush&theme=monokai&column=-1&no-bg=true)](https://github.com/nkaush/)
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
