@@ -34,3 +34,5 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
+### GitHub Tropies 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=nkaush&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
