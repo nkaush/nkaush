@@ -6,7 +6,6 @@
 
 ### About Me 👦
 - 🌱 I’m currently learning Rust and systems programming
-- 😄 Pronouns: he/him
 - 🍫 Fun Fact: I can never eat enough chocolate
 - ⚽️ I love playing and watching soccer
 
