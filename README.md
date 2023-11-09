@@ -4,16 +4,11 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neil.kaushikkar@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:neilk3@illinois.edu)
 
-### About Me 👦
-- 🌱 I’m currently learning Rust and systems programming
-- 🍫 Fun Fact: I can never eat enough chocolate
-- ⚽️ I love playing and watching soccer
-
 ### What I'm Working On 🏢
 - 👨‍🎓 I'm pursuing a Bachelor's degree in Computer Science at the University of Illinois at Urbana-Champaign
-- 🍎 I'm currently teaching [@CS128-Honors-Illinois](https://github.com/CS128-Honors-Illinois)
+- 🍎 I used to teach [@CS128-Honors-Illinois](https://github.com/CS128-Honors-Illinois)
 
-### Technologies 👨‍💻
+<!-- ### Technologies 👨‍💻
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,7 +24,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) -->
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
