@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-kaushikkar/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neil.kaushikkar@gmail.com)
-[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:neilk3@illinois.edu)
 
 ### What I'm Working On 🏢
 - 👨‍🎓 I'm pursuing a Bachelor's degree in Computer Science at the University of Illinois at Urbana-Champaign
