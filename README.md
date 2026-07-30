@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neil.kaushikkar@gmail.com)
 
 ### What I'm Working On 🏢
-- 🚀 Distributed systems in Rust at [jumptrading](https://www.jumptrading.com/)
+- 🚀 Distributed systems in Rust at [Jump Trading](https://www.jumptrading.com/)
 - 🍎 I used to teach [@CS128-Honors-Illinois](https://github.com/CS128-Honors-Illinois)
 
 <!-- ### Technologies 👨‍💻
