@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neil.kaushikkar@gmail.com)
 
 ### What I'm Working On 🏢
-- 👨‍🎓 I'm pursuing a Bachelor's degree in Computer Science at the University of Illinois at Urbana-Champaign
+- 🚀 Distributed systems in Rust at [jumptrading](https://www.jumptrading.com/)
 - 🍎 I used to teach [@CS128-Honors-Illinois](https://github.com/CS128-Honors-Illinois)
 
 <!-- ### Technologies 👨‍💻
@@ -29,5 +29,4 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- ### GitHub Tropies 🏆-->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nkaush&theme=monokai&column=-1&no-bg=true)](https://github.com/nkaush/)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkaush&layout=compact&theme=transparent)](https://github.com/nkaush/)
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
